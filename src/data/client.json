@@ -1,0 +1,15 @@
+{
+	"name": "Mist'r Service",
+	"email": "dgresso3@gmail.com",
+	"phoneForTel": "949-632-5879",
+	"phoneFormatted": "949-632-5879",
+	"address": {
+		"lineOne": "617 S. Carolina Ct,",
+		"lineTwo": "St. Charles MO 63303",
+		"city": "",
+		"state": "",
+		"zip": "",
+		"mapLink": ""
+	},
+	"domain": "www.codestitch.app"
+}

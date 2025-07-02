@@ -1,0 +1,33 @@
+[
+  {
+    "key": "Home",
+    "url": "/",
+    "children": []
+  },
+  {
+    "key": "Services",
+    "url": "#services",
+    "children": []
+  },
+  {
+    "key": "Benefits",
+    "url": "#benefits",
+    "children": [
+    ]
+  },
+  {
+    "key": "Gallery",
+    "url": "#gallery",
+    "children": []
+  },
+  {
+    "key": "Reviews",
+    "url": "#reviews",
+    "children": []
+  },
+  {
+    "key": "About Us",
+    "url": "#about",
+    "children": []
+  }
+]
